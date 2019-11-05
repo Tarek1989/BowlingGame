@@ -1,0 +1,7 @@
+C:\Users\Tarek\Desktop\PointLogicTest\PointLogicTest\bin\Debug\PointLogicTest.exe.config
+C:\Users\Tarek\Desktop\PointLogicTest\PointLogicTest\bin\Debug\PointLogicTest.exe
+C:\Users\Tarek\Desktop\PointLogicTest\PointLogicTest\bin\Debug\PointLogicTest.pdb
+C:\Users\Tarek\Desktop\PointLogicTest\PointLogicTest\obj\Debug\PointLogicTest.csprojAssemblyReference.cache
+C:\Users\Tarek\Desktop\PointLogicTest\PointLogicTest\obj\Debug\PointLogicTest.csproj.CoreCompileInputs.cache
+C:\Users\Tarek\Desktop\PointLogicTest\PointLogicTest\obj\Debug\PointLogicTest.exe
+C:\Users\Tarek\Desktop\PointLogicTest\PointLogicTest\obj\Debug\PointLogicTest.pdb
